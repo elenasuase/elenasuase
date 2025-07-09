@@ -1,7 +1,7 @@
 # ¡Hola! Soy Elena Suárez 👋
 
 ## Sobre mí
-Desarrolladora de Aplicaciones Multiplataforma con especial interés en el desarrollo móvil, web y la ciberseguridad. Disfruto creando soluciones funcionales y atractivas con tecnologías modernas, y mantengo una actitud constante de aprendizaje y mejora. Me motiva trabajar en proyectos con impacto real y seguir creciendo profesionalmente en el sector tecnológico.
+Desarrolladora de Aplicaciones Multiplataforma con especial interés en el desarrollo móvil, web y la ciberseguridad. Me gusta diseñar y construir aplicaciones eficientes y bien estructuradas, aplicando buenas prácticas de desarrollo y herramientas actuales. Siempre busco seguir aprendiendo y perfeccionando mis habilidades.
 
 ## Tecnologías y habilidades
 - Lenguajes: Java, Kotlin, Python, JavaScript, Bash  
@@ -16,4 +16,4 @@ Desarrolladora de Aplicaciones Multiplataforma con especial interés en el desar
 
 ## Conéctate conmigo
 - [LinkedIn](https://linkedin.com/in/elena-suarez-dev)  
-- [GitHub](https://github.com/elenasuarezse)  
+- [GitHub](https://github.com/elenasuase)  
